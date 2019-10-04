@@ -1,0 +1,26 @@
+*
+{
+     background-color: rgba(0, 119, 255, 0.349);
+     font-size: 27px;
+}
+
+.cm {
+    background-color: beige;
+
+}
+
+#ee {
+    background-color: brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 34px;
+}
+
+h1 {
+    color: beige;
+    background-color: rgba(0, 0, 255, 0.466);
+}
+
+h2 {
+    color: beige;
+    
+}
